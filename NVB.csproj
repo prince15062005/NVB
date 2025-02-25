@@ -48,13 +48,20 @@
     <Compile Include="AryDemo1.cs" />
     <Compile Include="Book.cs" />
     <Compile Include="ConsrtDemo.cs" />
+    <Compile Include="ConstDemo.cs" />
     <Compile Include="DemoClass1.cs" />
+    <Compile Include="DemoInh.cs" />
+    <Compile Include="DemoInher.cs" />
     <Compile Include="EmpDemo.cs" />
+    <Compile Include="EmpInh.cs" />
     <Compile Include="PersonalDetails.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PropertyDemo.cs" />
     <Compile Include="SearchingAry.cs" />
+    <Compile Include="StaticDemocs.cs" />
     <Compile Include="TDAry.cs" />
+    <Compile Include="Tdemo.cs" />
     <Compile Include="UserInputDemo.cs" />
     <Compile Include="VariableDemo.cs" />
   </ItemGroup>

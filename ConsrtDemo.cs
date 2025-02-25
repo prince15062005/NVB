@@ -14,7 +14,7 @@ namespace NVB
         int sem;
         double cgpa;
 
-        /*public Student()
+        public Student()
         {
             Console.WriteLine("Enter Roll Number of the studnet: ");
             rlno = Int32.Parse(Console.ReadLine());
@@ -24,7 +24,7 @@ namespace NVB
             sem = Int32.Parse(Console.ReadLine());
             Console.WriteLine("Enter th cgpa of the student: ");
             cgpa = Double.Parse(Console.ReadLine());
-        }*/
+        }
 
         public Student(int rlno, string name, int sem, double cgpa)
         {
